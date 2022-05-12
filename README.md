@@ -1,5 +1,7 @@
 # qermwiki
 
+You're probably here for the QERM wiki!  Go ahead and click on the `Wiki` link up at the top there.
+
 ## About
 
 This is the (empty) repo attached to the wiki for
@@ -19,5 +21,5 @@ Ultimately we decided static pages on github would make the learning curve
 to start collaboratively editing too high (everyone needs to become a collaborator
 on the repo and edit via git), and standing up a media wiki could easily prove
 hard to maintain over the long term. A github wiki seemed like the easiest solution
-that we could get started on right away, and also the best thing to leave to
+that we could get started on right away and the best thing to leave to
 future QERM students.
